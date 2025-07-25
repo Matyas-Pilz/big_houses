@@ -2,7 +2,7 @@ Adds large houses, with main-material shape registered to one node, and windows 
 All houses uses all materials
 
 Contain houses:  
-|Mame|Dimensions|Floors|Notes|
+|Mame|Dimensions|Floors|Notes|  
 |h01|16 x 12 x 11|3|corner shape,  shape dimensions: 15 x 11 x 11,  height 11 nodes does not include roof (actually not part)|
 
 Used materials:  

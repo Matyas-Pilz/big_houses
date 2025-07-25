@@ -1,0 +1,10 @@
+# textdomain: big_houses
+shape=tvar
+from=z
+stone=kámen
+sandstone=pískovec
+silver_sandstone=stříbrný pískovec
+brick=cihly
+stonebrick=kamenné cihly
+glass=sklo
+3-floor=třípodlažní
